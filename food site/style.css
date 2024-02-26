@@ -1,0 +1,41 @@
+#logo{
+    height: 80px; width: 80px;
+}
+#one{
+    width: 100%;height: 600px;
+}
+h1{text-align: center; padding-top: 60px; 
+
+}
+#two{
+    height: 300px;width: 300px;
+}
+h2{
+margin-left: 70px;
+}
+.col-6{
+    background-color: orangered;
+}
+
+nav{
+    background-color: orangered;
+}
+
+
+    
+
+footer{
+    padding-top: 100px;
+}
+
+
+
+iframe{
+    height: 250px;padding-top: 10px; width:750px;
+}
+.k{
+    padding-top: 80px;
+}
+.a,.b,.c,.d,.e,.f,.g,.h{
+    
+}
